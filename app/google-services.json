@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671583571165",
+    "project_id": "dexhackathon",
+    "storage_bucket": "dexhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671583571165:android:8a4a4cb7ff985b4974df34",
+        "android_client_info": {
+          "package_name": "com.example.samplefcmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671583571165-1b5cv1uhr6ahe6rjbihs4bq7nk83820q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0XYz8iT8OAGJH8FEk4ilsjRIKi3WQzsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671583571165-1b5cv1uhr6ahe6rjbihs4bq7nk83820q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
